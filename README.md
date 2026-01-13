@@ -1,8 +1,11 @@
-<!-- ===================== -->
-<!-- BANNER + PROFILE INFO -->
-<!-- ===================== -->
-
 <div align="center">
+
+<img
+    src="https://i.redd.it/hjn3f6lbfu401.jpg"
+    width="900"
+    height="350"
+    alt="Top Languages"
+  />
 
   <br/><br/>
 
@@ -15,13 +18,7 @@
       with clean architecture, performance, and maintainability in mind.
     </i>
   </p>
-
-  <img
-    src="https://images.alphacoders.com/135/1357322.jpeg"
-    height="300"
-    alt="Banner"
-  />
-
+  
   <br/><br/>
 
   <p>
@@ -104,65 +101,6 @@
 </div>
 
 <hr/>
-
-<!-- ============ -->
-<!-- FEATURED PROJECTS -->
-<!-- ============ -->
-
-<div align="center">
-
-  <h2>📌 Featured Projects</h2>
-
-  <br/>
-
-  <h3>🧙‍♂️ HarryPotterHead Forum — Production System</h3>
-
-  <p>
-    Interactive forum platform in active production, built with a modular and scalable architecture.
-    Designed to support real users, dynamic interactions, and long-term maintainability.
-  </p>
-
-  <div align="center" style="max-width:700px; margin: 0 auto;">
-    <ul>
-      <li>🏆 Achievement system with automatic unlocks</li>
-      <li>🔔 Real-time notifications and user events</li>
-      <li>🎒 Inventory-based rewards and progression logic</li>
-      <li>🔄 Event-driven architecture and database migrations</li>
-      <li>🛠️ Ongoing refactoring and performance improvements</li>
-    </ul>
-  </div>
-
-  <p>
-    <b>Role:</b> Full Stack Developer · Production environment<br/>
-    <b>Focus:</b> Stability, scalability, clean architecture
-  </p>
-
-  <br/>
-  <hr width="60%"/>
-  <br/>
-
-  <h3>🏢 Instalaciones García — Service Platform & Landing Page</h3>
-
-  <p>
-    Corporate service management platform and landing page, developed following
-    real business requirements and direct client feedback.
-  </p>
-
-  <div align="center" style="max-width:700px; margin: 0 auto;">
-    <ul>
-      <li>🎨 UX/UI aligned with brand guidelines</li>
-      <li>📍 Google Maps, WhatsApp, and email integrations</li>
-      <li>⚡ Performance, SEO, accessibility</li>
-      <li>📱 Fully responsive</li>
-    </ul>
-  </div>
-
-  <p><b>Status:</b> In active development</p>
-
-</div>
-
-<hr/>
-
 
 <!-- ============ -->
 <!-- HOW I WORK -->
