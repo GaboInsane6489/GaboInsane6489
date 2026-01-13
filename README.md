@@ -1,16 +1,208 @@
-## Hi there 👋
+<!-- ===================== -->
+<!-- BANNER + PROFILE INFO -->
+<!-- ===================== -->
 
-<!--
-**GaboInsane6489/GaboInsane6489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1>Gabriel González</h1>
+  <h3>Full Stack Developer</h3>
+
+  <p>
+    <i>
+      Building scalable, production-ready web applications<br/>
+      with clean architecture, performance, and maintainability in mind.
+    </i>
+  </p>
+
+  <img
+    src="https://images.alphacoders.com/135/1357322.jpeg"
+    height="300"
+    alt="Banner"
+  />
+
+  <br/><br/>
+
+  <p>
+    <a href="www.linkedin.com/in/gabriel-gonzalez-fullstack">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:gabrielgg2005ve@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
+</div>
+
+<hr/>
+
+<!-- ============ -->
+<!-- ABOUT ME -->
+<!-- ============ -->
+
+<div align="center">
+
+  <h2>About Me</h2>
+
+  <p>
+    Full Stack Developer with hands-on experience building and maintaining
+    real-world web applications in production. Focused on clean architecture,
+    performance, and scalable solutions across frontend and backend.
+  </p>
+
+  <p>
+    🚀 Experience working on <b>production systems</b><br/>
+    ✨ Strong focus on <b>code quality, maintainability, and performance</b><br/>
+    🤝 Comfortable with <b>professional, collaborative workflows</b><br/>
+    🌱 Continuous learner, focused on doing things the right way
+  </p>
+
+  <p>
+    I have contributed to service management platforms and interactive forums,
+    implementing role-based access, notification systems, achievements,
+    database migrations, and event-driven logic.
+  </p>
+
+</div>
+
+<hr/>
+
+<!-- ============ -->
+<!-- TECH STACK -->
+<!-- ============ -->
+
+<div align="center">
+
+  <img
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXV0dzhjYjJsamNia3N3YnE4eG44ODZhOHJjaWJyem0wamFrZTJ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
+    width="300"
+    alt="Coding gif"
+  />
+
+  <h2>Tech Stack & Workflow</h2>
+
+  <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-Frontend-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Astro-Performance-BC52EE?logo=astro&logoColor=white&style=for-the-badge"/>
+
+  <br/><br/>
+
+  <h3>Backend</h3>
+  <img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express-API-000000?logo=express&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge"/>
+
+  <br/><br/>
+
+  <h3>Tools & Workflow</h3>
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-Collaboration-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vercel-Deploy-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
+
+</div>
+
+<hr/>
+
+<!-- ============ -->
+<!-- FEATURED PROJECTS -->
+<!-- ============ -->
+
+<div align="center">
+
+  <h2>📌 Featured Projects</h2>
+
+  <br/>
+
+  <h3>🧙‍♂️ HarryPotterHead Forum — Production System</h3>
+
+  <p>
+    Interactive forum platform in active production, built with a modular and scalable architecture.
+    Designed to support real users, dynamic interactions, and long-term maintainability.
+  </p>
+
+  <div align="center" style="max-width:700px; margin: 0 auto;">
+    <ul>
+      <li>🏆 Achievement system with automatic unlocks</li>
+      <li>🔔 Real-time notifications and user events</li>
+      <li>🎒 Inventory-based rewards and progression logic</li>
+      <li>🔄 Event-driven architecture and database migrations</li>
+      <li>🛠️ Ongoing refactoring and performance improvements</li>
+    </ul>
+  </div>
+
+  <p>
+    <b>Role:</b> Full Stack Developer · Production environment<br/>
+    <b>Focus:</b> Stability, scalability, clean architecture
+  </p>
+
+  <br/>
+  <hr width="60%"/>
+  <br/>
+
+  <h3>🏢 Instalaciones García — Service Platform & Landing Page</h3>
+
+  <p>
+    Corporate service management platform and landing page, developed following
+    real business requirements and direct client feedback.
+  </p>
+
+  <div align="center" style="max-width:700px; margin: 0 auto;">
+    <ul>
+      <li>🎨 UX/UI aligned with brand guidelines</li>
+      <li>📍 Google Maps, WhatsApp, and email integrations</li>
+      <li>⚡ Performance, SEO, accessibility</li>
+      <li>📱 Fully responsive</li>
+    </ul>
+  </div>
+
+  <p><b>Status:</b> In active development</p>
+
+</div>
+
+<hr/>
+
+
+<!-- ============ -->
+<!-- HOW I WORK -->
+<!-- ============ -->
+
+<div align="center">
+
+  <h2>🧩 How I Work</h2>
+
+  <p>
+    <i>"Clarity over cleverness. Stability over shortcuts."</i>
+  </p>
+
+  <p>
+    I prioritize clean, readable code and long-term maintainability.<br/>
+    I’m comfortable working with tickets, pull requests, code reviews,
+    and iterative improvements in real production environments.
+  </p>
+
+  <p>
+    I focus on delivering reliable solutions, understanding the problem
+    before writing code, and improving systems without breaking what already works.
+  </p>
+
+</div>
+
+<hr/>
+
+<div align="center">
+
+  <br/><br/>
+
+  <img
+    src="https://images.unsplash.com/photo-1605379399642-870262d3d051?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D"
+    width="500"
+    alt="Top Languages"
+  />
+
+</div>
+
+<br/><br/>
+
+
