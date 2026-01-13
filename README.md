@@ -1,8 +1,8 @@
 <div align="center">
 
 <img
-  src="https://i.redd.it/hjn3f6lbfu401.jpg"
-  width="60%"
+  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5xd256NDV0N2Q5MW55bGFmNXV5YnY3Yzk4dG9kMGF2a3dydW9mNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"
+  width="25%"
   style="max-width:900px; max-height:240px; object-fit:cover; border-radius:8px;"
   alt="Profile banner"
 />
