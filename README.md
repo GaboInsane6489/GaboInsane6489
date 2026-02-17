@@ -1,90 +1,89 @@
-<div align="center">
+<h1 align="center">FULL STACK DEVELOPER</h1>
 
-<img
-  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW5xd256NDV0N2Q5MW55bGFmNXV5YnY3Yzk4dG9kMGF2a3dydW9mNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"
-  width="25%"
-  style="max-width:900px; max-height:240px; object-fit:cover; border-radius:8px;"
-  alt="Profile banner"
-/>
-
-<h1>Gabriel González</h1>
-<h3>Full Stack Developer</h3>
-
-<p>
-  <i>
-    Building scalable, production-ready web applications<br/>
-    with clean architecture, performance, and maintainability in mind.
-  </i>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/gabriel-gonzalez-fullstack">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gabrielgg2005ve@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-</div>
-
----
+###
 
 <div align="center">
-
-<h2>About Me</h2>
-
-<p>
-  Full Stack Developer with hands-on experience building and maintaining
-  real-world web applications in production. Focused on clean architecture,
-  performance, and scalable solutions across frontend and backend.
-</p>
-
-<p>
-  🚀 Experience working on <b>production systems</b><br/>
-  ✨ Strong focus on <b>code quality, maintainability, and performance</b><br/>
-  🤝 Comfortable with <b>professional, collaborative workflows</b><br/>
-  🌱 Continuous learner, focused on doing things the right way
-</p>
-
-<p>
-  I have contributed to service management platforms and interactive forums,
-  implementing role-based access, notification systems, achievements,
-  database migrations, and event-driven logic.
-</p>
-
+  <img height="200" src="https://camo.githubusercontent.com/a5e4f42d41a3b4d9452ab18fa30d63c5acf5d1493d2d56712c7925f81c3f6143/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457864585630647a686a596a4a73616d4e6961334e33596e4534654734344f445a684f484a6a61574a79656d3077616d46725a544a3063795a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f36364d365a774a6b544c59696b766872715a2f67697068792e676966"  />
 </div>
 
----
+###
+
+<p align="center">I am a Full Stack Developer focused on building modern, maintainable, and performance-oriented web applications. I work across both frontend and backend, prioritizing clean architecture, best practices, and solutions designed to scale in an organized way.</p>
+
+###
+
+<h3 align="center">My Social Media</h3>
+
+###
 
 <div align="center">
-
-<h2>Tech Stack & Workflow</h2>
-
-<img
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXV0dzhjYjJsamNia3N3YnE4eG44ODZhOHJjaWJyem0wamFrZTJ0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
-  width="220"
-  alt="Coding animation"
-/>
-
-<h3>Frontend</h3>
-<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-Frontend-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Astro-Performance-BC52EE?logo=astro&logoColor=white&style=for-the-badge"/>
-
-<h3>Backend</h3>
-<img src="https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Express-API-000000?logo=express&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Supabase-Backend-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge"/>
-
-<h3>Tools & Workflow</h3>
-<img src="https://img.shields.io/badge/Git-Version_Control-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-Collaboration-181717?logo=github&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vercel-Deploy-000000?logo=vercel&logoColor=white&style=for-the-badge"/>
-
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="25" alt="paypal logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
 </div>
 
----
+###
+
+<h3 align="center">My Technology Stack</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GaboInsane6489&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
 
 <div align="center">
 
