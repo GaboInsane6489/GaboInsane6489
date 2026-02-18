@@ -12,7 +12,7 @@
 
 ## <img src="https://cdn.simpleicons.org/buymeacoffee/white" height="18"/> Professional Profile
 
-I am a **Junior Full Stack Developer** with formal specialization training in Full Stack Development and currently pursuing Computer Engineering at **:contentReference[oaicite:0]{index=0} (UCAB)**.
+I am a **Junior Full Stack Developer** with formal specialization training in Full Stack Development and currently pursuing Computer Engineering at **[Universidad Católica Andrés Bello (UCAB)](https://www.ucab.edu.ve/)**.
 
 I design and build **role-based systems**, **protected architectures**, and **modular web platforms** with strong focus on:
 
