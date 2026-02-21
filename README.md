@@ -78,16 +78,29 @@
       <img src="https://streak-stats.demolab.com?user=GaboInsane6489&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170"/>
     </td>
     <td width="50%" align="center" valign="top">
-      <h2><img src="https://cdn.simpleicons.org/linktree/white" height="18"/> Social Media</h2>
-      <div style="margin-top: 20px;">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&style=for-the-badge" height="35"/>
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="35"/>
-        <br />
-        <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&style=for-the-badge" height="35"/>
-        <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&style=for-the-badge" height="35"/>
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35"/>
-      </div>
+<h2><img src="https://cdn.simpleicons.org/linktree/white" height="18"/> Social Media</h2>
+
+<div style="margin-top: 20px;">
+  <a href="https://www.linkedin.com/in/gabriel-gonzalez-fullstack/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/~01c0fa47b16b86f3af?viewMode=1" target="_blank">
+    <img src="https://cdn.simpleicons.org/upwork/6FDA44" height="35" alt="Upwork"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/dreamsfallen6488/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="35" alt="Instagram"/>
+  </a>
+  <br><br>
+  <a href="https://www.youtube.com/@Gabo6489Gaming-pe2tg" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" height="35" alt="YouTube"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.com/users/gabo6489" title="Discord: gabo6489">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="35" alt="Discord"/>
+  </a>
+</div>
     </td>
   </tr>
 </table>
